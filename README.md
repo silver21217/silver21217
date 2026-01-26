@@ -51,23 +51,19 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ![](https://github-trophies.vercel.app/?username=silver21217&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### 🔥 **My Stats**
 
 [![silver21217's GitHub stats](https://readmestats.999857.xyz/api?username=silver21217&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=☕%20silver21217's%20Github%20Stats)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
 
-<!-- ### 💻 **My Languages**
+---
 
-<div align="center" style="border: 3px solid #00FF00; border-radius:15px; padding:10px; background-color:#0d1117; display:flex; justify-content:space-between; gap:0;">
+## 📈 Activity Graph
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver21217&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="33%" style="margin:0; padding:0;" />
+[![silver21217's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silver21217&theme=react-dark)](https://github.com/silver21217)
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silver21217&theme=chartreuse_dark&langs_count=100" width="33%" style="margin:0; padding:0;" />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silver21217&theme=chartreuse_dark&langs_count=100" width="33%" style="margin:0; padding:0;" />
-
-</div>
-
---- -->
+---
 
 ### 🐍 **GitHub Contribution Snake**
 
