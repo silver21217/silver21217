@@ -5,9 +5,8 @@
 <!-- # ⭐ 1.5K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐ -->
 
 <div align="center">
-  
   <span style="font-size: 2.5rem; font-weight: bold; text-transform: uppercase; animation: neon-effect 2s infinite alternate; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 35px #ff00ff, 0 0 40px #ff00ff; color: #ffffff; letter-spacing: 2px;">Coding From Home!!!☕</span>
-  </div>
+</div>
   
 <!-- <div align="center">
   <a href="your-linkedin-URL">
@@ -38,7 +37,7 @@
 I'm a **Full Stack Developer** on a mission to create digital wonders from the blueprints of imagination.
 
 - 🔭 By day, I wield my coding wand as a **Software Engineer**, conjuring both frontend and backend magic to craft enchanting web applications that captivate users.
-- 🌌 **Join me on this cosmic journey!** Feel free to summon me via email at [dkupper710@gmail.com](mailto:dkupper710@gmail.com).
+- 🌌 Feel free to Join me via email at [dkupper710@gmail.com](mailto:dkupper710@gmail.com).
 
 ---
 
