@@ -1,13 +1,3 @@
-<!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
-
-<!-- ## 👤 Profile Views -->
-
-<!-- # ⭐ 1.5K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐ -->
-
-<div align="center">
-  <span style="font-size: 2.5rem; font-weight: bold; text-transform: uppercase; animation: neon-effect 2s infinite alternate; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 35px #ff00ff, 0 0 40px #ff00ff; color: #ffffff; letter-spacing: 2px;">Coding From Home!!!☕</span>
-</div>
-  
 <!-- <div align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,6 +9,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div> -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
+</div>
+
+<br />
 
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
