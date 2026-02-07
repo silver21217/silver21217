@@ -54,56 +54,56 @@
 
 <!-- Languages -->
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38"/>
 </a>
 <a href="https://www.javascript.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38"/>
 </a>
 
 <!-- ML / DL -->
 <a href="https://pytorch.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" height="38"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38" height="38"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="38" height="38"/>
 </a>
 
 <!-- LLM / NLP -->
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38"/>
 </a>
 <a href="https://openai.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="38" height="38"/>
 </a>
 
 <!-- Backend -->
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" height="38"/>
 </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38"/>
 </a>
 
 <!-- Databases -->
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38"/>
 </a>
 <a href="https://redis.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" height="38"/>
 </a>
 
 <!-- Vector Databases -->
 <a href="https://www.pinecone.io/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="42" height="42"/>
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="38" height="38"/>
 </a>
 
 <!-- Infra -->
@@ -111,10 +111,10 @@
   <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38"/>
 </a>
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="38" height="38"/>
 </a>
 
 <!-- Tooling -->
@@ -122,7 +122,7 @@
   <img src="https://img.icons8.com/color/48/git.png"/>
 </a>
 <a href="https://mlflow.org/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" width="42" height="42"/>
+  <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" width="38" height="38"/>
 </a>
 
 </p>
